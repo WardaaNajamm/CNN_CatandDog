@@ -9,4 +9,4 @@ The code has been modified along the following points:
 3- Change pooling to observe output
 4. Change Dataset
 
-I have demonstrated the process of creating a preliminary sketch for each layer and independently verifying the number of parameters to ensure the accuracy of the program in the Validating_Params.docx file.
+I have demonstrated the process of creating a preliminary sketch for each layer and independently verifying the number of parameters to ensure the accuracy of the program in the Validating_Params.pdf file.
